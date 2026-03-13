@@ -1,0 +1,24 @@
+> sessionInfo()
+R version 4.4.2 (2024-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS Monterey 12.5.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] biomaRt_2.62.1           lubridate_1.9.4          forcats_1.0.1            stringr_1.6.0            purrr_1.2.0             
+ [6] readr_2.1.6              tidyr_1.3.2              tibble_3.3.0             tidyverse_2.0.0          dplyr_1.1.4             
+[11] WGCNA_1.73               fastcluster_1.3.0        dynamicTreeCut_1.63-1    readxl_1.4.5             matrixStats_1.5.0       
+[16] MEGENA_1.3.7             igraph_2.2.1             doParallel_1.0.17        iterators_1.0.14         foreach_1.5.2           
+[21] variancePartition_1.36.3 BiocParallel_1.40.2      limma_3.62.2             ggplot2_4.0.1     
