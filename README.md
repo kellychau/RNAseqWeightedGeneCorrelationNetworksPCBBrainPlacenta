@@ -6,10 +6,9 @@ This repository contains code used for the analyses presented in the manuscript:
 
 ### Associated Publication
 
-**Sex and tissue resolved co-expression networks reveal a female placental–brain axis protective against prenatal PCB exposure**
-
-<sub>Chau *et al.*</sub>  
-<sub>Accepted at *Genome Biology* (2024)</sub>
+## Sex and tissue resolved co-expression networks reveal a female placental–brain axis protective against prenatal PCB exposure
+Chau *et al.*  
+Accepted at *Genome Biology* (2024)
 
 ---
 
